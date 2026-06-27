@@ -1,0 +1,9 @@
+node_modules
+Readme.md 
+.env
+.gitignore
+.git 
+**/.git
+**/.svn
+**/.hg
+**/node_modules
